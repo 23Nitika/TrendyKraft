@@ -9,7 +9,7 @@ TrendyKraft is an eCommerce application built with Python Django Framework. Some
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/rwzyY54n/Screenshot-284.png)
+![Screenshot (284)](https://github.com/23Nitika/TrendyKraft/assets/100531005/d557fad1-630f-4254-a89f-3907446abea9)
 
 
 
